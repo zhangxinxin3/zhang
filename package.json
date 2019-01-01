@@ -1,0 +1,29 @@
+{
+    "name": "zhang",
+    "version": "1.0.0",
+    "description": "zxx",
+    "main": "gulpfile.js",
+    "scripts": {
+        "dev": "gulp dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhangxinxin3/zhang.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zhangxinxin3/zhang/issues"
+    },
+    "homepage": "https://github.com/zhangxinxin3/zhang#readme",
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-clean-css": "^4.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-htmlmin": "^5.0.1",
+        "gulp-sass": "^4.0.2",
+        "gulp-uglify": "^3.0.1",
+        "gulp-watch": "^5.0.1",
+        "gulp-webserver": "^0.9.1"
+    }
+}
